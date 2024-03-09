@@ -27,15 +27,15 @@ Q5: How can a column named Gender be added in the firstTable?
 
 Q6: How many Male employees are over 40?
 
-Q7: Find out the employee name having the first word "J"?***/
+Q7: Find out the employee name having the first word "J"?  
 
-Q8: Is there any Null values in the column Experience?***/
+Q8: Is there any Null values in the column Experience?
 
-Q9: How many male and female employees?***/
+Q9: How many male and female employees?
 
-Q10: Is there any Female employee whose Age is over 40?***/
+Q10: Is there any Female employee whose Age is over 40?
 
-Q11: Which Team has 10 years of  Experiences with a bonus greater than 5000?***/
+Q11: Which Team has 10 years of  Experiences with a bonus greater than 5000?
 
 Q12: How many bonuses does the HR Team get? show in ascending order ?
 
