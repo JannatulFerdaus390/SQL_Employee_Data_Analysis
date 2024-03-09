@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Employee Table 1\
+employee_id,name,age,department,salary\
+1,John Doe,28,IT,60000\
+2,Jane Smith,35,HR,55000\
+3,Michael Johnson,40,Finance,70000\
+4,Alice Williams,32,Marketing,62000\
+5,Robert Brown,28,IT,58000\
+6,Emily Davis,45,Finance,75000\
+7,David Wilson,34,Marketing,63000\
+8,Susan Miller,30,HR,56000\
+9,Matthew Taylor,38,IT,62000\
+10,Olivia Moore,31,Marketing,64000\
+11,Chris Anderson,42,Finance,72000\
+12,Emma Thomas,29,IT,59000\
+13,Brian White,33,Marketing,61000\
+14,Julia Clark,37,HR,57000\
+15,Richard Harris,41,Finance,71000\
+16,Linda Robinson,26,IT,56000\
+17,Daniel Lee,36,Marketing,63000\
+18,Megan Martin,39,HR,58000\
+19,George Turner,27,IT,60000\
+20,Amy Baker,43,Finance,73000\
+21,Jason Moore,32,Marketing,65000\
+22,Karen Hall,29,IT,57000\
+23,Mark Thompson,44,HR,59000\
+24,Sarah Brown,31,Marketing,66000\
+25,Jeffrey Davis,35,Finance,74000\
+26,Christine Jackson,33,IT,58000\
+27,Andrew Adams,37,Marketing,67000\
+28,Kelly Harris,28,HR,60000\
+29,Scott Taylor,39,IT,61000\
+30,Melissa Turner,30,Marketing,68000\
+31,Eric Turner,34,Finance,75000\
+32,Rebecca Moore,36,HR,62000\
+33,Christopher Smith,40,Marketing,69000\
+34,Amanda White,26,IT,59000\
+35,Nathan Wilson,41,Finance,76000\
+36,Lauren Martin,35,Marketing,70000\
+37,Brian Taylor,27,HR,63000\
+38,Samantha Hall,42,IT,60000\
+39,Timothy Harris,29,Marketing,71000\
+40,Heather Anderson,38,Finance,77000\
+41,Brandon Johnson,33,HR,64000\
+42,Stephanie Davis,43,Marketing,72000\
+43,Kevin Turner,31,IT,61000\
+44,Melanie Clark,34,Finance,78000\
+45,Todd Brown,39,Marketing,73000\
+46,Catherine Miller,28,HR,65000\
+47,Philip Moore,40,IT,62000\
+48,Jessica Harris,36,Marketing,74000\
+49,Anthony Thompson,32,Finance,79000\
+50,Katie Turner,37,HR,66000\
+}

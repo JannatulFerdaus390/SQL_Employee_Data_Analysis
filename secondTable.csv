@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Employee Table 2\
+employee_id,designation,experience,team,bonus\
+1,Software Engineer,3,Development,5000\
+2,HR Manager,8,HR,7000\
+3,Financial Analyst,15,Finance,10000\
+4,Marketing Specialist,6,Marketing,6000\
+5,Network Administrator,2,Development,4500\
+6,Senior Financial Manager,20,Finance,12000\
+7,Marketing Manager,10,Marketing,8000\
+8,HR Specialist,5,HR,5500\
+9,Database Administrator,12,Development,6500\
+10,Marketing Coordinator,7,Marketing,7000\
+11,Senior Financial Analyst,18,Finance,11000\
+12,Systems Analyst,4,Development,4800\
+13,Marketing Strategist,9,Marketing,6500\
+14,HR Coordinator,13,HR,6000\
+15,Finance Director,17,Finance,10500\
+16,Junior Software Engineer,1,Development,4200\
+17,Product Marketing Manager,11,Marketing,7500\
+18,HR Generalist,14,HR,5800\
+19,IT Specialist,2,Development,4800\
+20,Senior Financial Controller,14,Finance,11500\
+21,Marketing Director,8,Marketing,8500\
+22,IT Manager,5,Development,5500\
+23,Finance Manager,16,Finance,9500\
+24,Marketing Analyst,9,Marketing,6800\
+25,Network Architect,13,Development,5200\
+26,Senior Database Administrator,11,Development,7000\
+27,Marketing Consultant,15,Marketing,8000\
+28,HR Director,6,HR,6500\
+29,Software Development Manager,10,Development,7500\
+30,Senior Marketing Manager,7,Marketing,9000\
+31,Financial Controller,11,Finance,10500\
+32,HR Analyst,13,HR,6200\
+33,Product Manager,16,Marketing,8500\
+34,Junior IT Specialist,1,Development,4500\
+35,Senior Finance Manager,18,Finance,11000\
+36,Marketing Specialist II,12,Marketing,7500\
+37,IT Support Specialist,3,Development,4800\
+38,Database Developer,14,Development,8000\
+39,Senior HR Specialist,7,Marketing,9200\
+40,Senior Finance Analyst,16,Finance,11200\
+41,Junior HR Manager,9,HR,5800\
+42,Marketing Manager II,13,Marketing,8700\
+43,IT Consultant,11,Development,6000\
+44,Finance Analyst,14,Finance,11500\
+45,Senior IT Specialist,19,Marketing,7800\
+46,HR Assistant,4,HR,5500\
+47,Software Development Team Lead,15,Development,9000\
+48,Senior HR Coordinator,11,Marketing,8000\
+49,IT Project Manager,7,Finance,12000\
+50,HR Specialist II,12,HR,6000\
+}
