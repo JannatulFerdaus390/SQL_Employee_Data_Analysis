@@ -8,11 +8,12 @@ The motivation of this project is to analyze employee information and how quickl
 1. Build a database
 2. Create a table and insert the data.
 3. Select columns with null values in them. Deleted all NULL values from the datasets, deleted unnecessary rows and Character, renamed column index.
+
 **Feature Engineering:** This will help generate some new columns from existing ones.
-Added a new column named “Gender” to give insight of employees in the Male and Female. This will help answer the question on which part of the day most sales are made.
+Added a new column named “Gender” to give insight of employees gender in the form of Male and Female. This will help answer the question which are based on Gender.
 
 *********************************************************************************************************
-## Queries and Case: 
+## Queries and Case 
 
 Q1: How many unique EmployeeID does the data from firstTable have?
 
