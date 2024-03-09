@@ -9,9 +9,10 @@ The motivation of this project is to analyze employee information and how quickl
 2. Create a table and insert the data.
 3. Select columns with null values in them. Deleted all NULL values from the datasets, deleted unnecessary rows and Character, renamed column index.
 
-**Feature Engineering:** This will help generate some new columns from existing ones.
-Added a new column named “Gender” to give insight of employees gender in the form of Male and Female. This will help answer the question which are based on Gender.
+**Feature Engineering:** This will help generate some new columns from existing ones.  
 
+1. Added a new column named “Gender” to give insight of employees gender in the form of Male and Female. This will help answer the question which are based on Gender.
+2. Joined two dataset by "inner join" formula which aids to solve some prroblem.
 *********************************************************************************************************
 ## Queries and Case 
 
