@@ -1,6 +1,6 @@
 ## Employee Data Analysis
 
-The motivation of this project is to analyze employee information and how quickly any information of an employee can be found out. Two datasets were made by myself in csv. First dataset contains the demographics of employees and the second is for showing the relationship with the company. Two datasets contain a total 50 columns and 5 rows.
+The motivation of this project is to analyze employee information and how quickly any information of an employee can be found out. Two datasets were made by myself in csv. First dataset contains the demographics of employees and the second is for showing the relationship with the company. Two datasets contain a total 5 columns and 50 rows.
 
 ## Approaches Employed
 
